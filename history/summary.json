@@ -1,20 +1,20 @@
 [
   {
-    "name": "网盘",
+    "name": "wangpan",
     "url": "https://alist-oniati.koyeb.app/onedrive",
     "icon": "https://icons.duckduckgo.com/ip3/alist-oniati.koyeb.app.ico",
-    "slug": "",
+    "slug": "wangpan",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 400,
-    "timeDay": 400,
-    "timeWeek": 400,
-    "timeMonth": 400,
-    "timeYear": 400,
+    "time": 395,
+    "timeDay": 395,
+    "timeWeek": 395,
+    "timeMonth": 395,
+    "timeYear": 395,
     "dailyMinutesDown": {}
   }
 ]
