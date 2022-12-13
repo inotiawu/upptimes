@@ -4,19 +4,19 @@
     "url": "https://alist-oniati.koyeb.app/onedrive",
     "icon": "https://icons.duckduckgo.com/ip3/alist-oniati.koyeb.app.ico",
     "slug": "wangpan",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 511,
-    "timeDay": 585,
-    "timeWeek": 501,
-    "timeMonth": 509,
-    "timeYear": 511,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 506,
+    "timeDay": 438,
+    "timeWeek": 475,
+    "timeMonth": 502,
+    "timeYear": 506,
     "dailyMinutesDown": {
-      "2022-12-13": 0
+      "2022-12-13": 13
     }
   }
 ]
