@@ -6,15 +6,15 @@
     "slug": "wangpan",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.93%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 515,
-    "timeDay": 687,
-    "timeWeek": 533,
-    "timeMonth": 503,
-    "timeYear": 515,
+    "time": 517,
+    "timeDay": 615,
+    "timeWeek": 529,
+    "timeMonth": 504,
+    "timeYear": 517,
     "dailyMinutesDown": {
       "2022-12-15": 15
     }
