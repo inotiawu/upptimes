@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/alist-oniati.koyeb.app.ico",
     "slug": "wangpan",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.97%",
-    "time": 517,
-    "timeDay": 615,
-    "timeWeek": 529,
-    "timeMonth": 504,
-    "timeYear": 517,
+    "uptimeYear": "99.98%",
+    "time": 520,
+    "timeDay": 626,
+    "timeWeek": 548,
+    "timeMonth": 512,
+    "timeYear": 520,
     "dailyMinutesDown": {
       "2022-12-15": 15
     }
