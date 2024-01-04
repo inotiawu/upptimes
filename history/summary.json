@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
-    "time": 554,
-    "timeDay": 107,
-    "timeWeek": 261,
-    "timeMonth": 972,
-    "timeYear": 557,
+    "time": 553,
+    "timeDay": 97,
+    "timeWeek": 239,
+    "timeMonth": 947,
+    "timeYear": 556,
     "dailyMinutesDown": {
       "2023-11-27": 49,
       "2023-10-19": 26,
@@ -23,5 +23,23 @@
       "2023-02-20": 175,
       "2023-01-18": 176
     }
+  },
+  {
+    "name": "webprox",
+    "url": "https://f30a328f-aef3-4149-871c-69e945bd0530-00-21kau82edypkr.janeway.replit.dev",
+    "icon": "https://icons.duckduckgo.com/ip3/f30a328f-aef3-4149-871c-69e945bd0530-00-21kau82edypkr.janeway.replit.dev.ico",
+    "slug": "webprox",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 180,
+    "timeDay": 180,
+    "timeWeek": 180,
+    "timeMonth": 180,
+    "timeYear": 180,
+    "dailyMinutesDown": {}
   }
 ]
