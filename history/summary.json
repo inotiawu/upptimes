@@ -29,19 +29,19 @@
     "url": "https://f30a328f-aef3-4149-871c-69e945bd0530-00-21kau82edypkr.janeway.replit.dev",
     "icon": "https://icons.duckduckgo.com/ip3/f30a328f-aef3-4149-871c-69e945bd0530-00-21kau82edypkr.janeway.replit.dev.ico",
     "slug": "webprox",
-    "status": "up",
-    "uptime": "53.60%",
-    "uptimeDay": "53.60%",
-    "uptimeWeek": "53.60%",
-    "uptimeMonth": "53.60%",
-    "uptimeYear": "53.60%",
-    "time": 233,
-    "timeDay": 233,
-    "timeWeek": 233,
-    "timeMonth": 233,
-    "timeYear": 233,
+    "status": "down",
+    "uptime": "78.34%",
+    "uptimeDay": "78.34%",
+    "uptimeWeek": "78.34%",
+    "uptimeMonth": "78.34%",
+    "uptimeYear": "78.34%",
+    "time": 225,
+    "timeDay": 225,
+    "timeWeek": 225,
+    "timeMonth": 225,
+    "timeYear": 225,
     "dailyMinutesDown": {
-      "2024-01-04": 77
+      "2024-01-04": 65
     }
   }
 ]
