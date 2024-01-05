@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
-    "time": 553,
-    "timeDay": 97,
-    "timeWeek": 239,
-    "timeMonth": 947,
-    "timeYear": 556,
+    "time": 552,
+    "timeDay": 85,
+    "timeWeek": 227,
+    "timeMonth": 944,
+    "timeYear": 555,
     "dailyMinutesDown": {
       "2023-11-27": 49,
       "2023-10-19": 26,
@@ -30,18 +30,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/f30a328f-aef3-4149-871c-69e945bd0530-00-21kau82edypkr.janeway.replit.dev.ico",
     "slug": "webprox",
     "status": "down",
-    "uptime": "66.35%",
-    "uptimeDay": "66.35%",
-    "uptimeWeek": "66.35%",
-    "uptimeMonth": "66.35%",
-    "uptimeYear": "66.35%",
-    "time": 233,
-    "timeDay": 233,
-    "timeWeek": 233,
-    "timeMonth": 233,
-    "timeYear": 233,
+    "uptime": "36.52%",
+    "uptimeDay": "36.52%",
+    "uptimeWeek": "36.52%",
+    "uptimeMonth": "36.52%",
+    "uptimeYear": "36.52%",
+    "time": 228,
+    "timeDay": 228,
+    "timeWeek": 228,
+    "timeMonth": 228,
+    "timeYear": 228,
     "dailyMinutesDown": {
-      "2024-01-04": 181
+      "2024-01-05": 71,
+      "2024-01-04": 551
     }
   }
 ]
