@@ -4,7 +4,7 @@
     "url": "https://nebula-brick-denim.glitch.me/onedrive",
     "icon": "https://icons.duckduckgo.com/ip3/nebula-brick-denim.glitch.me.ico",
     "slug": "wangpan",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.38%",
@@ -16,6 +16,7 @@
     "timeMonth": 1373,
     "timeYear": 606,
     "dailyMinutesDown": {
+      "2024-02-01": 0,
       "2024-01-28": 62,
       "2024-01-09": 19,
       "2023-11-27": 49,
