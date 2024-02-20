@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/husky-twisty-lightyear.glitch.me.ico",
     "slug": "wangpan",
     "status": "up",
-    "uptime": "98.77%",
+    "uptime": "98.78%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "81.17%",
+    "uptimeWeek": "95.43%",
     "uptimeMonth": "83.32%",
     "uptimeYear": "98.49%",
-    "time": 743,
-    "timeDay": 275,
-    "timeWeek": 4004,
-    "timeMonth": 2073,
+    "time": 742,
+    "timeDay": 102,
+    "timeWeek": 3760,
+    "timeMonth": 2068,
     "timeYear": 772,
     "dailyMinutesDown": {
       "2024-02-16": 41,
@@ -31,8 +31,7 @@
       "2023-11-27": 49,
       "2023-10-19": 26,
       "2023-04-30": 18,
-      "2023-04-01": 359,
-      "2023-02-20": 175
+      "2023-04-01": 359
     }
   }
 ]
