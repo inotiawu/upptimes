@@ -1,7 +1,7 @@
 [
   {
     "name": "wangpan",
-    "url": "https://alist-oniati.koyeb.app/onedrive",
+    "url": "https://alist-oniati.koyeb.app/",
     "icon": "https://icons.duckduckgo.com/ip3/alist-oniati.koyeb.app.ico",
     "slug": "wangpan",
     "status": "up",
@@ -11,10 +11,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "98.49%",
     "time": 1079,
-    "timeDay": 191,
-    "timeWeek": 236,
-    "timeMonth": 245,
-    "timeYear": 763,
+    "timeDay": 180,
+    "timeWeek": 228,
+    "timeMonth": 242,
+    "timeYear": 762,
     "dailyMinutesDown": {
       "2025-01-29": 16,
       "2024-12-31": 211,
