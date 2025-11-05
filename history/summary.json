@@ -4,7 +4,7 @@
     "url": "https://alist-oniati.koyeb.app/",
     "icon": "https://icons.duckduckgo.com/ip3/alist-oniati.koyeb.app.ico",
     "slug": "wangpan",
-    "status": "up",
+    "status": "down",
     "uptime": "98.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 248,
     "timeYear": 304,
     "dailyMinutesDown": {
+      "2025-11-05": 0,
       "2025-09-27": 64,
       "2025-09-08": 68,
       "2025-08-19": 23,
