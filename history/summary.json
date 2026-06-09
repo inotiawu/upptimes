@@ -1,8 +1,8 @@
 [
   {
     "name": "wangpan",
-    "url": "https://gh.4xu.xyz/d/team/imgtest/galgame/sukisuki/20260402160901.png",
-    "icon": "https://icons.duckduckgo.com/ip3/gh.4xu.xyz.ico",
+    "url": "https://google.com",
+    "icon": "https://icons.duckduckgo.com/ip3/google.com.ico",
     "slug": "wangpan",
     "status": "up",
     "uptime": "99.08%",
@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
     "time": 317,
-    "timeDay": 1355,
-    "timeWeek": 523,
-    "timeMonth": 308,
-    "timeYear": 329,
+    "timeDay": 928,
+    "timeWeek": 473,
+    "timeMonth": 301,
+    "timeYear": 328,
     "dailyMinutesDown": {
       "2025-08-19": 23,
       "2025-09-08": 68,
