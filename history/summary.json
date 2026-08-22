@@ -4,16 +4,16 @@
     "url": "https://google.com",
     "icon": "https://icons.duckduckgo.com/ip3/google.com.ico",
     "slug": "wangpan",
-    "status": "down",
+    "status": "up",
     "uptime": "99.13%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.82%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.81%",
     "time": 294,
-    "timeDay": 315,
-    "timeWeek": 163,
-    "timeMonth": 159,
+    "timeDay": 246,
+    "timeWeek": 157,
+    "timeMonth": 158,
     "timeYear": 288,
     "dailyMinutesDown": {
       "2025-09-08": 68,
@@ -28,7 +28,8 @@
       "2026-03-02": 131,
       "2026-03-23": 60,
       "2026-04-17": 55,
-      "2026-08-14": 41
+      "2026-08-14": 41,
+      "2026-08-22": 19
     }
   }
 ]
